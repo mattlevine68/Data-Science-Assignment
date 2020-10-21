@@ -1,0 +1,70 @@
+F	Union
+M	Union
+M	Union
+F	Union
+M	Union
+M	Union
+F	Union
+F	VCC
+F	VCC
+M	VCC
+F	VCC
+M	VCC
+F	VCC
+M	Carnegie
+M	Carnegie
+F	VCC
+M	Union
+M	Union
+F	Union
+F	Union
+M	Polytechnic
+M	Polytechnic
+M	Polytechnic
+M	JEC
+M	JEC
+M	JEC
+M	JEC
+M	JEC
+M	JEC
+M	Commons
+F	Commons
+F	Commons
+M	Commons
+M	Commons
+M	Commons
+M	Commons
+M	Commons
+M	Commons
+M	Commons
+F	Commons
+M	Commons
+M	Polytechnic
+M	Polytechnic
+M	Polytechnic
+F	Polytechnic
+F	Polytechnic
+M	Polytechnic
+F	Polytechnic
+F	Polytechnic
+M	Polytechnic
+F	Polytechnic
+F	Polytechnic
+F	Polytechnic
+M	Sage DH
+M	Sage DH
+M	Sage DH
+F	Sage DH
+M	Sage DH
+M	Sage DH
+F	Sage DH
+F	Sage DH
+F	Sage DH
+F	Sage DH
+F	Sage DH
+M	Union
+M	Union
+F	Union
+F	Union
+F	Union
+M	Union
